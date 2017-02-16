@@ -1,2 +1,7 @@
 answer-1: 1079
 answer-2: 0.384000
+answer-3: 850
+answer-4: PRAME
+answer-5: chr22:0-16150259
+answer-6: I have used the bedtools nuc and subtract functions to
+answer Q2 and Q5
